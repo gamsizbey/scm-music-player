@@ -1,11 +1,11 @@
 #player,#player a{ color:#fff; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
-#player .mainImage{ background:url(main.png); }
+#player .mainImage{ background:url(https://i.imgsafe.org/47af9e0857.png); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(playBtn.png); }
+#player #play{ background:url(https://i.imgsafe.org/47abb8ed79.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
